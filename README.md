@@ -1,5 +1,5 @@
 ![Banner](imgs/header.png)
-![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-black.svg)](https://developer.apple.com/iphone/index.action)
+[![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-black.svg)](https://developer.apple.com/iphone/index.action)
 ![GitHub issues](https://img.shields.io/github/issues-raw/YTLitePlus/YTLitePlus-Altstore?color=black&)
 
 <a href="https://tinyurl.com/YTLiteAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/Altstore.png" width="200"></a>
