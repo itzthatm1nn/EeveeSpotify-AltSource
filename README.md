@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Altstore/Github_banner.png" alt="YTLitePlus Banner" />
+  <img src="[https://github.com/itzthatm1nn/EeveeSpotify-AltSource/blob/c5120dde22385b3ccf4b35ff5f6ff2caac9f88dd/imgs/banner.png]" alt="EeveeSpotify Banner" />
 </p>
 
 [![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-black.svg)](https://developer.apple.com/iphone/index.action)
