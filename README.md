@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://files.catbox.moe/b3un2k.png]" alt="EeveeSpotify Banner" />
+  <img src="[https://files.catbox.moe/b3un2k.png]"/>
 </p>
 
 [![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-black.svg)](https://developer.apple.com/iphone/index.action)
