@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/itzthatm1nn/EeveeSpotify-AltSource/refs/heads/main/imgs/banner.png]"/>
+  <img src="[https://raw.githubusercontent.com/itzthatm1nn/EeveeSpotify-AltSource/refs/heads/main/imgs/header.png]"/>
 </p>
 
 [![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-black.svg)](https://developer.apple.com/iphone/index.action)
